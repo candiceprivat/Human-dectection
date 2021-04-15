@@ -37,14 +37,19 @@ function setup() {
   mobilenet = ml5.featureExtractor('MobileNet', modelReady);
   classifier = mobilenet.classification(video, videoReady);
 
-//   humanButton = createButton('happy');
-//   happyButton.mousePressed(function() {
-//     classifier.addImage('happy');
+//   humanButton = createButton('human');
+//   humanButton.mousePressed(function() {
+//     classifier.addImage('human');
 //   });
 
-//   sadButton = createButton('sad');
-//   sadButton.mousePressed(function() {
-//     classifier.addImage('sad');
+//   buildingButton = createButton('building');
+//   buildingButton.mousePressed(function() {
+//     classifier.addImage('building');
+//   });
+  
+ // animalButton = createButton('animal');
+//   animalButton.mousePressed(function() {
+//     classifier.addImage('animal');
 //   });
 
 //   trainButton = createButton('train');
