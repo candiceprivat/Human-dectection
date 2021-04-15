@@ -60,7 +60,7 @@ function setup() {
  // saveButton.mousePressed(function() {
    // classifier.save();
   //});
-//}
+}
 
 function draw() {
   background(0);
