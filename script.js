@@ -1,4 +1,4 @@
-/ Save/Load Model
+// Save/Load Model
 // A Beginner's Guide to Machine Learning with ml5.js
 // The Coding Train / Daniel Shiffman
 // https://youtu.be/eeO-rWYFuG0
