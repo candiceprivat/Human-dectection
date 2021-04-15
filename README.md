@@ -1,1 +1,1 @@
-# Human-dectection
+# Human-detection
